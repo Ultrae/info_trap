@@ -1,4 +1,4 @@
-from flagit@github.com:Ultrae/info_trap.gitsk import Flask
+from flask import Flask
 from flask import request
 import sys
 import base64
